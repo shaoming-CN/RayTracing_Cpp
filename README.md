@@ -14,6 +14,7 @@ Using Cpp to render the scene with the principle of raytacing
 
 # 可控制的相机
 相机可设定世界空间中的位置，以及利用fov和宽高比来定义视野范围；
+
 ![图片名称](https://github.com/shaoming-CN/RayTracing_Cpp/blob/main/Displaypicture/Camera.png) 
 
 # 动态模糊
