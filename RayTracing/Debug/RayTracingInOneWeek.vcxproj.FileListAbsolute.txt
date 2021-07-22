@@ -1,0 +1,2 @@
+E:\Computer Graphics\RayTracingInOneWeek\Debug\RayTracingInOneWeek.exe
+E:\Computer Graphics\RayTracingInOneWeek\Debug\RayTracingInOneWeek.pdb
