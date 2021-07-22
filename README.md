@@ -27,4 +27,4 @@ Using Cpp to render the scene with the principle of raytacing
 
 #大理石纹理
 原理利用柏林噪声；
-![图片名称](![图片名称](https://github.com/shaoming-CN/RayTracing_Cpp/blob/main/Displaypicture/sphere_getuv.png)) 
+![图片名称](https://github.com/shaoming-CN/RayTracing_Cpp/blob/main/Displaypicture/marble.png) 
