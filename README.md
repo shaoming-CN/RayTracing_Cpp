@@ -20,3 +20,11 @@ Using Cpp to render the scene with the principle of raytacing
 # 动态模糊
 动态模糊在游戏中的应用:在每一帧上的运动物体朝某个方向加入拖影和模糊，就能以每秒至少24帧形成连续画面；本例一个像素会射出多束样本光线，我们为给每个光线添加一个记录射出时间的参数，该时间作为插值属性得到动态球球心位置，最后平均结果作为该像素颜色。
 ![图片名称](https://github.com/shaoming-CN/RayTracing_Cpp/blob/main/Displaypicture/raytracing_movingsphere.png) 
+
+#球体纹理采样
+将球上的位置坐标转换到球系坐标下的天顶角和方位角，分别归一化到纹理中取样。
+![图片名称](https://github.com/shaoming-CN/RayTracing_Cpp/blob/main/Displaypicture/sphere_getuv.png) 
+
+#大理石纹理
+原理利用柏林噪声；
+![图片名称](![图片名称](https://github.com/shaoming-CN/RayTracing_Cpp/blob/main/Displaypicture/sphere_getuv.png)) 
