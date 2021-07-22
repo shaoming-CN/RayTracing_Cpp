@@ -6,3 +6,8 @@ Using Cpp to render the scene with the principle of raytacing
 
 # 类设计关联图
 ![图片名称](https://github.com/shaoming-CN/RayTracing_Cpp/blob/main/Displaypicture/RayTracing_Note.png) 
+
+# 光散射效果
+本项目不同射效果实现主要依托不同材质类中，scatter函数对应功能，材质lambertian、metal、dielectric分别产生漫反射、反射和折射三种现象；
+下图从左到右分别是折射、漫反射、反射效果；
+![图片名称]（https://github.com/shaoming-CN/RayTracing_Cpp/blob/main/Displaypicture/reflect_refract.png）
